@@ -1,0 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-header{
+    background-color: #264653;
+}
+.btn-custom{
+    background-color: #E76F51;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.text-star-color{
+    color: #E76F51;
+}
